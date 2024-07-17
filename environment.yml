@@ -2,7 +2,7 @@ name: jupyterlab_practice
 channels:
   - conda-forge
   - defaults
-  - dependencies:
+dependencies:
   - nb_conda_kernels
   - ipykernel
   - bzip2=1.0.8=h99b78c6_7
