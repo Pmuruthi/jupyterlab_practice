@@ -5,6 +5,9 @@ channels:
 dependencies:
   - nb_conda_kernels
   - ipykernel
+  - python>=3.10
+  - jupyterlab
+  - scikit-learn
   - bzip2=1.0.8=h99b78c6_7
   - ca-certificates=2024.7.4=hf0a4a13_0
   - libblas=3.9.0=22_osxarm64_openblas
